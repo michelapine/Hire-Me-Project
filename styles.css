@@ -1,0 +1,28 @@
+h1{
+    font-family: 'Cinzel', serif;
+    
+}
+h2{
+    font-family:'Poiret One', cursive;
+}
+li{
+    font-family: 'Charmonman', cursive;
+
+}
+p{
+    font-family: 'Charmonman', cursive;
+}
+body{
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+img{
+    width:280px;
+    height:200px;
+}
+
+
+    
+    
